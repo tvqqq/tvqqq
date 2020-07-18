@@ -1,16 +1,15 @@
-### Hi there 👋
+#### Hi there 👋
 
-<!--
-**tvqqq/tvqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Quyen Tat](https://tvqhub.com), currently working as a Web Developer in Ho Chi Minh City, Vietnam 👨‍💻 .
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="400px" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on many side projects on Github.
+- 🌱 I’m currently learning AWS.
+- 👀 I use daily: `.php`, `.js`, `.html`, `.css`, `.sql`
+- 💬 Ask me about anything, I am happy to help.
+- ⚡️ Fun fact: I'm a Sky 💫.
+- 📫 How to reach me: quyen@tvqhub.com
+- 📝 Resume: [cv.tvqhub.com](https://cv.tvqhub.com)
+
+![TVQ's github stats](https://github-readme-stats.vercel.app/api?username=tvqqq&show_icons=true&hide_border=true&hide=["contribs"])
