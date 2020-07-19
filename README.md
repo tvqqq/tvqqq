@@ -1,8 +1,8 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
-
 ## Hi there 👋
 
 ### **I'm [Quyen Tat](https://tvqhub.com), currently working as a Web Developer in Ho Chi Minh City, Vietnam 👨‍💻 .**
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
 
 ![TVQ's github visitor](https://komarev.com/ghpvc/?username=tvqqq)
 
