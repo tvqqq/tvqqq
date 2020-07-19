@@ -1,6 +1,6 @@
-#### Hi there 👋
+#### Hi there 👋👋👋
 
-### **I'm [Quyen Tat](https://tvqhub.com), currently working as a Web Developer in Ho Chi Minh City, Vietnam 👨‍💻 .**
+### I'm [Quyen Tat](https://tvqhub.com), currently working as a Web Developer in Ho Chi Minh City, Vietnam 👨‍💻.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
 
@@ -10,6 +10,8 @@
 - 🔭 I’m currently working on: [tvqhub](https://github.com/tvqqq/tvqhub) & [tvqhub-laravel](https://github.com/tvqqq/tvqhub-laravel).
 - 🌱 I’m currently learning: AWS & Python.
 - 💬 Ask me about anything, I am happy to help.
+- 💻 My devices: Macbook Pro 2019.
+- ⛅️ My big dream: Financial Independence with my favorite jobs.
 - 📫 How to reach me: quyen@tvqhub.com
 - 📝 Resume: [cv.tvqhub.com](https://cv.tvqhub.com)
 
