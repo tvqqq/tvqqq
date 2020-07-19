@@ -1,14 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-**I'm [Quyen Tat](https://tvqhub.com), currently working as a Web Developer in Ho Chi Minh City, Vietnam 👨‍💻 .**
+### **I'm [Quyen Tat](https://tvqhub.com), currently working as a Web Developer in Ho Chi Minh City, Vietnam 👨‍💻 .**
+
+![TVQ's github visitor](https://komarev.com/ghpvc/?username=tvqqq)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="400px" />
 
-- 🔭 I’m currently working on many side projects on Github.
-- 🌱 I’m currently learning AWS.
-- 👀 I use daily: `.php`, `.js`, `.html`, `.css`, `.sql`
+- 👀 I use daily: `.php`, `.js`, `.html`, `.css`, `.sql`.
+- 🔭 I’m currently working on: [tvqhub](https://github.com/tvqqq/tvqhub) & [tvqhub-laravel](https://github.com/tvqqq/tvqhub-laravel).
+- 🌱 I’m currently learning: AWS & Python.
 - 💬 Ask me about anything, I am happy to help.
-- ⚡️ Fun fact: I'm a Sky 💫.
 - 📫 How to reach me: quyen@tvqhub.com
 - 📝 Resume: [cv.tvqhub.com](https://cv.tvqhub.com)
 
