@@ -1,6 +1,6 @@
 #### Hi there 👋👋👋
 
-### I'm [Quyen Tat](https://tvqhub.com), currently working as a Web Developer in Ho Chi Minh City, Vietnam 👨‍💻.
+### I'm Quyen Tat a.k.a TVQ, currently working as a Web Developer in Ho Chi Minh City, Vietnam 👨‍💻.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
 
