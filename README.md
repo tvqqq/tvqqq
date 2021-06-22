@@ -1,15 +1,17 @@
-#### Hi there 👋👋👋
+### Hi there 👋 !!!
 
-### I'm Quyen Tat, currently working as a Web Developer in Ho Chi Minh City, Vietnam 👨‍💻.
+#### I'm a Full-Stack Developer working in Ho Chi Minh City, Vietnam 👨‍💻.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
+##### BIO
 
-- 👀 I use daily: `.php`, `.js`, `.html`, `.css`, `.sql`.
-- 🌱 I’m currently working on: Laravel & Vue.
-- 💻 My devices: Macbook Pro 2019.
-- ⛅️ My big dream: Build a community centered product for Vietnamese.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: tvq9612@gmail.com
-- 📝 My site: https://tatviquyen.name.vn
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.vue`, `.py`, `.graphql`
+- 🌍 I'm mostly active within **AWS** stacks
+- 🌱 Learning all about **Open Source**
+- ⚡️ Frequented sites: [Notion](https://notion.so), [Vietcetera](https://vietcetera.com), [Medium](https://medium.com) (with the help of [WARP](https://1.1.1.1) 🥲)
+
+##### CONTACT
+- 💬 Ping me about **development**, **laravel**, **aws**, **design**
+- 📫 Reach me: [linkedin/tvq](https://www.linkedin.com/in/tvq)
+- 👀 My official site: https://tatviquyen.name.vn
 
 ![TVQ's github visitor](https://komarev.com/ghpvc/?username=tvqqq)
