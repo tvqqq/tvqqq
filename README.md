@@ -4,13 +4,13 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.vue`, `.py`, `.graphql`
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within **AWS** stacks
-- 🌱 Learning all about **Open Source**
+- 🌱 Learning all about **Web Development**
 - ⚡️ Frequented sites: [Notion](https://notion.so), [Vietcetera](https://vietcetera.com), [Medium](https://medium.com) (with the help of [WARP](https://1.1.1.1) 🥲)
 
 ##### CONTACT
-- 💬 Ping me about **development**, **laravel**, **aws**, **design**
+- 💬 Ping me about **web**, **devops**, **aws**, **laravel**
 - 📫 Reach me: [linkedin/tvq](https://www.linkedin.com/in/tvq)
 - 👀 My official site: https://tatviquyen.name.vn
 
