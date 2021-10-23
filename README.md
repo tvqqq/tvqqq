@@ -5,11 +5,11 @@
 ##### BIO
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`
-- 🌍 I'm mostly active within **LAMP**, **MERN**, **AWS**
-- 🌱 Willing learn all about **Web Development** stacks
+- 🌍 I'm mostly active within **LAMP**, **MERN**, **AWS** stacks
+- 🌱 Willing learn all about **Web Development**
 
 ##### CONTACT
-- 💬 Ping me about **web**, **devops**, **aws**, **laravel**
+- 💬 Ping me about **web**, **devops**, **aws**, **laravel**, **reactjs**
 - 📫 Reach me: [linkedin/tvq](https://www.linkedin.com/in/tvq)
 - 👀 My official site: https://tatviquyen.name.vn
 
