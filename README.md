@@ -5,9 +5,8 @@
 ##### BIO
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`
-- 🌍 I'm mostly active within **AWS** stacks
-- 🌱 Learning all about **Web Development**
-- ⚡️ Frequented sites: [Notion](https://notion.so), [Vietcetera](https://vietcetera.com), [Medium](https://medium.com) (with the help of [WARP](https://1.1.1.1) 🥲)
+- 🌍 I'm mostly active within **LAMP**, **MERN**, **AWS**
+- 🌱 Willing learn all about **Web Development** stacks
 
 ##### CONTACT
 - 💬 Ping me about **web**, **devops**, **aws**, **laravel**
