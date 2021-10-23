@@ -12,4 +12,4 @@
 ##### CONTACT
 - 📫 Reach me: [linkedin/tvq](https://www.linkedin.com/in/tvq)
 - 👀 My official site: https://tatviquyen.name.vn
-- 🍱 Order dimsum at HCMC: https://www.diemtamsuky.site
+- 🍱 Order dimsum in HCMC: https://www.diemtamsuky.site
