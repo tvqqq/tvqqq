@@ -10,7 +10,6 @@
 - 🌱 Willing learn all about **Web Development**
 
 ##### CONTACT
-- 💬 Ping me about **web**, **devops**, **aws**, **laravel**, **reactjs**
 - 📫 Reach me: [linkedin/tvq](https://www.linkedin.com/in/tvq)
 - 👀 My official site: https://tatviquyen.name.vn
 - 🍱 Order dimsum at HCMC: https://www.diemtamsuky.site
