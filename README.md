@@ -1,10 +1,12 @@
 <div align='center'>
   <a href="https://qeoqeo.com"><img src="https://i.imgur.com/xdIW7mm.png" alt="Quyen Tat's Banner"/></a>
-
+  
   ![Qeo Profile Views](https://api.qeoqeo.com/profile-counter/)  
 </div>
 
-<a href="https://app.daily.dev/tvq9612"><img align='right' src="https://api.daily.dev/devcards/d7086470c7bb4b118fed7a06bc830ebc.png?r=ar5" width="400" alt="Quyen Tat's Dev Card"/></a>
+---
+
+<a href="https://app.daily.dev/tvq9612"><img align='right' src="https://api.daily.dev/devcards/d7086470c7bb4b118fed7a06bc830ebc.png?r=ar5" width="350" alt="Quyen Tat's Dev Card"/></a>
 
 ##### BIO
 - 👨‍💻 Web Artisan, PHP Enthusiast, Laravel Lover, Big Fan of Serverless.
@@ -13,4 +15,8 @@
 ##### CONTACT
 - 💁‍♂️ Website: [qeoqeo.com](https://qeoqeo.com)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tvqqq&theme=transparent&hide_border=true&card_width=300&hide_longest_streak=true)
+<div align='center'>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=tvqqq&theme=transparent&hide_border=true&card_width=300&ring=ffbd91&dates=FF7CBF&currStreakNum=FF9E5E&sideNums=FF9E5E&sideLabels=FFFFFF&currStreakLabel=FFFFFF&fire=FF9E5E&hide_longest_streak=true)
+  
+</div>
