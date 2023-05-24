@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=839AA8&height=300&section=header&text=Quyen%20Tat&fontSize=100&animation=fadeIn&fontAlignY=35&desc=A%20Software%20Engineer&descAlignY=51&descAlign=66)
+<div align='center'>
+  <a href="https://qeoqeo.com"><img src="https://i.imgur.com/xdIW7mm.png" alt="Quyen Tat's Banner"/></a>
+
+  ![Qeo Profile Views](https://api.qeoqeo.com/profile-counter/)  
+</div>
 
 <a href="https://app.daily.dev/tvq9612"><img align='right' src="https://api.daily.dev/devcards/d7086470c7bb4b118fed7a06bc830ebc.png?r=ar5" width="400" alt="Quyen Tat's Dev Card"/></a>
 
@@ -8,7 +12,5 @@
 
 ##### CONTACT
 - 💁‍♂️ Website: [qeoqeo.com](https://qeoqeo.com)
-  
-![Qeo Profile Views](https://api.qeoqeo.com/profile-counter/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tvqqq&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=tvqqq&theme=transparent&hide_border=true&card_width=300&hide_longest_streak=true)
