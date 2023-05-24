@@ -6,7 +6,7 @@
 
 ---
 
-<a href="https://app.daily.dev/tvq9612"><img align='right' src="https://api.daily.dev/devcards/d7086470c7bb4b118fed7a06bc830ebc.png?r=ar5" width="350" alt="Quyen Tat's Dev Card"/></a>
+<a href="https://app.daily.dev/tvq9612"><img align='right' src="https://github.com/tvqqq/tvqqq/blob/master/devcard.svg" width="350" alt="Quyen Tat's Dev Card"/></a>
 
 ##### BIO
 - 👨‍💻 Web Artisan, PHP Enthusiast, Laravel Lover, Big Fan of Serverless.
