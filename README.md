@@ -13,7 +13,9 @@
 - 🌍 I'm mostly active within **LAMP**, **Serverless**, **AWS** stacks.
 
 ##### CONTACT
-- 💁‍♂️ Website: [qeoqeo.com](https://qeoqeo.com)
+- 🏡 Personal site: https://qeo.io.vn
+- 🪴 Blog: https://blog.qeo.io.vn
+- 🚧 Now under construction: https://qeoqeo.com
 
 <div align='center'>
   
